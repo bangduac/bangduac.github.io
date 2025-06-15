@@ -14,19 +14,54 @@ His research focuses on valorisation and energy recovery from anaerobic waste an
 2. integrating thermodynamic-kinetic-microbiome models to reveal the dynamics of microorganisms, substrates, energy, and electrons in biological treatment.
 
 Research interests
-======
+------
 1. Biological Treatment and Resource Recovery in Waste/Wastewater
 2. Microbial Interactions and Electron Transfer Mechanisms
 3. Modelling and Bioinformatics Analysis
 
+Career
+======
+### Lecturer  
+**Civil and Environmental Engineering, School of Engineering, University of Surrey, UK**  
+*April 2025 – Present*  
+- MSc Modules: ENGM304 Wastewater Treatment, ENGM044 Dissertation Project
+
+### Research Fellow  
+**School of Engineering, University of Surrey, UK**  
+*May 2024 – March 2025*  
+- Bioinformatics  
+- Anaerobic microbiome modelling  
+- Life cycle assessment
+
+### Lab Manager  
+**Centre for Environmental Health and Engineering (CEHE), University of Surrey, UK**  
+*September 2024 – Present*
+
+### Teaching Assistant  
+**Civil Engineering, University of Galway, Ireland**  
+*2022 – 2023*  
+- Modules: Design of Sustainable Environmental Systems, Civil Engineering Materials and Design, Engineering Computing, Fundamentals of Engineering
+
+### Research Assistant  
+**Institute of Hydrobiology, Chinese Academy of Sciences, China**  
+*August 2020 – December 2020*  
+- Reactor operation  
+- Experiments in molecular and cellular biology
+
+### Civil Design Engineer  
+**CITIC General Institute of Architectural Design and Research, China**  
+*July 2019 – May 2021*  
+- Construction Drawing Design  
+- Building Information Modelling (BIM)  
+- Projects: Water Supply, Drainage, Wastewater Treatment Module, and Fire-Fighting System
 
 Education
 ======
-Ph.D., Civil Engineering (Environmental Engineering), University of Galway, Ireland
+Ph.D., Civil Engineering (Environmental Engineering), 06/2021–03/2024, University of Galway, Ireland
 
-M.Eng., Civil Engineering (Environmental Engineering), Hefei University of Technology, China
+M.Eng., Civil Engineering (Environmental Engineering), 09/2016–04/2019, Hefei University of Technology, China
 
-B.Eng., Water Supply and Drainage Engineering, Hefei University of Technology, China
+B.Eng., Water Supply and Drainage Engineering, 09/2012–07/2016, Hefei University of Technology, China
 
 Site-wide configuration
 ------
