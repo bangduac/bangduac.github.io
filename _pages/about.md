@@ -1,28 +1,39 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Dr Bang Du obtained his PhD from the University of Galway, Ireland, in March 2024. He then joined the University of Surrey as a Research Fellow in Bioinformatics and Anaerobic Digestion Microbiome Modelling, and serves as a Lecturer in Civil and Environmental Engineering. He is currently leading a Marie Skłodowska-Curie Postdoctoral Fellowship project and has contributed to several national and international research projects funded by UKRI-EPSRC, Science Foundation Ireland, Sustainable Energy Authority of Ireland, and the National Natural Science Foundation of China. Dr Du has published serveral peer-reviewed journal papers, such as Water Research.
 
-A data-driven personal website
+His research focuses on valorisation and energy recovery from anaerobic waste and wastewater treatment, particularly in:
+1. applying ecological theory in microbial enrichment and metabolic pathway regulation with engineering approaches, and 
+2. integrating thermodynamic-kinetic-microbiome models to reveal the dynamics of microorganisms, substrates, energy, and electrons in biological treatment.
+
+Research interests
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+1. Biological Treatment and Resource Recovery in Waste/Wastewater
+2. Microbial Interactions and Electron Transfer Mechanisms
+3. Modelling and Bioinformatics Analysis
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+Education
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Ph.D., Civil Engineering (Environmental Engineering)	06/2021–03/2024
+  University of Galway, Ireland
+  Supervisor: Dr Guangxue Wu
+  Thesis: Deciphering Anaerobic Ethanol Oxidation for Better Recovery of Renewable Energy from Wastewater
+  
+M.Eng., Civil Engineering (Environmental Engineering)	09/2016–04/2019
+  Hefei University of Technology, China
+  Supervisor: Prof. Li Liu
+  Thesis: Effects of Bacterial Mobility on Biofilm Formation under Environmental Stresses
+
+B.Eng., Water Supply and Drainage Engineering	09/2012–07/2016
+  Hefei University of Technology, China
 
 Site-wide configuration
 ------
