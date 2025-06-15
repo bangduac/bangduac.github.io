@@ -22,20 +22,11 @@ Research interests
 
 Education
 ======
-Ph.D., Civil Engineering (Environmental Engineering)
-06/2021–03/2024
-University of Galway, Ireland
-Supervisor: Dr Guangxue Wu
-Thesis: Deciphering Anaerobic Ethanol Oxidation for Better Recovery of Renewable Energy from Wastewater
-  
-M.Eng., Civil Engineering (Environmental Engineering)	
-09/2016–04/2019
-Hefei University of Technology, China
-Supervisor: Prof. Li Liu
-Thesis: Effects of Bacterial Mobility on Biofilm Formation under Environmental Stresses
+Ph.D., Civil Engineering (Environmental Engineering), University of Galway, Ireland
 
-B.Eng., Water Supply and Drainage Engineering	09/2012–07/2016
-  Hefei University of Technology, China
+M.Eng., Civil Engineering (Environmental Engineering), Hefei University of Technology, China
+
+B.Eng., Water Supply and Drainage Engineering, Hefei University of Technology, China
 
 Site-wide configuration
 ------
