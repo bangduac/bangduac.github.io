@@ -15,8 +15,8 @@ April 2025 – Present
 ### Research Fellow  
 **School of Engineering, University of Surrey, UK**  
 May 2024 – March 2025
+- Anaerobic microbiome modelling
 - Bioinformatics  
-- Anaerobic microbiome modelling  
 - Life cycle assessment
 
 ### Lab Manager  
@@ -25,12 +25,12 @@ September 2024 – Present
 
 ### Teaching Assistant  
 **Civil Engineering, University of Galway, Ireland**  
-*2022 – 2023*  
+2022 – 2023
 - Modules: Design of Sustainable Environmental Systems, Civil Engineering Materials and Design, Engineering Computing, Fundamentals of Engineering
 
 ### Research Assistant  
 **Institute of Hydrobiology, Chinese Academy of Sciences, China**  
-*August 2020 – December 2020*  
+August 2020 – December 2020  
 - Reactor operation  
 - Experiments in molecular and cellular biology
 
