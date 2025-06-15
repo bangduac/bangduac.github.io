@@ -13,7 +13,7 @@ title                    : "Bang Du / Academic Page"
 title_separator          : "-"
 name                     : &name "Bang Du"
 description              : &description "personal description"
-url                      : https://https://bangduac.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://bangduac.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bangduac.github.io"
 
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : bangdu33
+  linkedin         : 'https://www.linkedin.com/in/bangdu33/'
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -284,7 +284,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _career
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
