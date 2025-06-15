@@ -18,3 +18,10 @@ Research interests
 - Biological Treatment and Resource Recovery in Waste/Wastewater
 - Microbial Interactions and Electron Transfer Mechanisms
 - Modelling and Bioinformatics Analysis
+
+Education
+------
+- Ph.D., Civil Engineering (Environmental Engineering), University of Galway, Ireland, 06/2021–03/2024
+- M.Eng., Civil Engineering (Environmental Engineering), Hefei University of Technology, China,	09/2016–04/2019
+- B.Eng., Water Supply and Drainage Engineering, Hefei University of Technology, China,	09/2012–07/2016
+
